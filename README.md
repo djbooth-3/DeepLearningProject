@@ -1,5 +1,7 @@
 # Evaluating Mamba on Continuous Physiological Sensor Data (WESAD)
 
+**Ana Rodriguez** · **Darien Booth** — UTEP — CS 5365 — Deep Learning: Final Project
+
 
 ---
 
